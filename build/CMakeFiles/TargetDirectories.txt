@@ -1,0 +1,4 @@
+/root/Proj/Proj-T/build/CMakeFiles/rebuild_cache.dir
+/root/Proj/Proj-T/build/CMakeFiles/edit_cache.dir
+/root/Proj/Proj-T/build/CMakeFiles/testPro.dir
+/root/Proj/Proj-T/build/CMakeFiles/utilsLib.dir

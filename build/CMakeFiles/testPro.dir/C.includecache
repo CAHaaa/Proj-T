@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+
+/root/Proj/Proj-T/src/main.c
+stdio.h
+-
+utils.h
+/root/Proj/Proj-T/src/utils.h
+
